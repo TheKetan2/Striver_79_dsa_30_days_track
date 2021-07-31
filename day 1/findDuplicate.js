@@ -12,5 +12,4 @@ var findDuplicate = function(nums) {
             obj[num] = 1;
         }
     }
-    
 };
